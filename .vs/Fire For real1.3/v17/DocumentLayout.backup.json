@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shira\\Fire For real1.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|C:\\Users\\Shira\\Fire For real1.3\\assets\\firesim\\scripts\\artemplatemenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|solutionrelative:assets\\firesim\\scripts\\artemplatemenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|c:\\users\\shira\\fire for real1.3\\assets\\firesim\\scripts\\personcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|solutionrelative:assets\\firesim\\scripts\\personcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\ARSampleMenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FireSim\\Scripts\\ARSampleMenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|C:\\Users\\Shira\\Fire For real1.3\\assets\\firesim\\scripts\\spraycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|solutionrelative:assets\\firesim\\scripts\\spraycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|C:\\Users\\Shira\\Fire For real1.3\\assets\\firesim\\scripts\\arinteractorspawntrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|solutionrelative:assets\\firesim\\scripts\\arinteractorspawntrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shira\\Fire For real1.3\\Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\AR\\Inputs\\ScreenSpaceRotateInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\AR\\Inputs\\ScreenSpaceRotateInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|C:\\Users\\Shira\\Fire For real1.3\\assets\\firesim\\scripts\\escapedoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|solutionrelative:assets\\firesim\\scripts\\escapedoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shira\\Fire For real1.3\\Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\AR\\Inputs\\ScreenSpacePinchScaleInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\AR\\Inputs\\ScreenSpacePinchScaleInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|C:\\Users\\Shira\\Fire For real1.3\\assets\\firesim\\scripts\\arfeatheredplanemeshvisualizercompanion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|solutionrelative:assets\\firesim\\scripts\\arfeatheredplanemeshvisualizercompanion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|C:\\Users\\Shira\\Fire For real1.3\\assets\\firesim\\scripts\\goalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|solutionrelative:assets\\firesim\\scripts\\goalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|C:\\Users\\Shira\\Fire For real1.3\\assets\\firesim\\scripts\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|solutionrelative:assets\\firesim\\scripts\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|C:\\Users\\Shira\\Fire For real1.3\\assets\\firesim\\scripts\\trainingstatsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|solutionrelative:assets\\firesim\\scripts\\trainingstatsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|C:\\Users\\Shira\\Fire For real1.3\\assets\\firesim\\scripts\\startupuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|solutionrelative:assets\\firesim\\scripts\\startupuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|C:\\Users\\Shira\\Fire For real1.3\\assets\\firesim\\scripts\\instructionui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|solutionrelative:assets\\firesim\\scripts\\instructionui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|C:\\Users\\Shira\\Fire For real1.3\\assets\\firesim\\scripts\\extinguisherspray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|solutionrelative:assets\\firesim\\scripts\\extinguisherspray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|C:\\Users\\Shira\\Fire For real1.3\\assets\\firesim\\scripts\\trackablefire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|solutionrelative:assets\\firesim\\scripts\\trackablefire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|C:\\Users\\Shira\\Fire For real1.3\\assets\\firesim\\scripts\\runtimespawninfo..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|solutionrelative:assets\\firesim\\scripts\\runtimespawninfo..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|C:\\Users\\Shira\\Fire For real1.3\\assets\\firesim\\scripts\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CD02E5-C069-0A0C-CB6D-AF35FCCD87D3}|Assembly-CSharp.csproj|solutionrelative:assets\\firesim\\scripts\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Fire.cs",
+              "DocumentMoniker": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\Fire.cs",
+              "RelativeDocumentMoniker": "Assets\\FireSim\\Scripts\\Fire.cs",
+              "ToolTip": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\Fire.cs",
+              "RelativeToolTip": "Assets\\FireSim\\Scripts\\Fire.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:43:25.132Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonCollector.cs",
+              "DocumentMoniker": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\PersonCollector.cs",
+              "RelativeDocumentMoniker": "Assets\\FireSim\\Scripts\\PersonCollector.cs",
+              "ToolTip": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\PersonCollector.cs",
+              "RelativeToolTip": "Assets\\FireSim\\Scripts\\PersonCollector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T02:40:40.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScreenSpacePinchScaleInput.cs",
+              "DocumentMoniker": "C:\\Users\\Shira\\Fire For real1.3\\Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\AR\\Inputs\\ScreenSpacePinchScaleInput.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\AR\\Inputs\\ScreenSpacePinchScaleInput.cs",
+              "ToolTip": "C:\\Users\\Shira\\Fire For real1.3\\Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\AR\\Inputs\\ScreenSpacePinchScaleInput.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\AR\\Inputs\\ScreenSpacePinchScaleInput.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAqwHAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:41:58.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScreenSpaceRotateInput.cs",
+              "DocumentMoniker": "C:\\Users\\Shira\\Fire For real1.3\\Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\AR\\Inputs\\ScreenSpaceRotateInput.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\AR\\Inputs\\ScreenSpaceRotateInput.cs",
+              "ToolTip": "C:\\Users\\Shira\\Fire For real1.3\\Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\AR\\Inputs\\ScreenSpaceRotateInput.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit\\Runtime\\AR\\Inputs\\ScreenSpaceRotateInput.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:41:43.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ARFeatheredPlaneMeshVisualizerCompanion.cs",
+              "DocumentMoniker": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\ARFeatheredPlaneMeshVisualizerCompanion.cs",
+              "RelativeDocumentMoniker": "Assets\\FireSim\\Scripts\\ARFeatheredPlaneMeshVisualizerCompanion.cs",
+              "ToolTip": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\ARFeatheredPlaneMeshVisualizerCompanion.cs",
+              "RelativeToolTip": "Assets\\FireSim\\Scripts\\ARFeatheredPlaneMeshVisualizerCompanion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T00:26:47.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ARInteractorSpawnTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\ARInteractorSpawnTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\FireSim\\Scripts\\ARInteractorSpawnTrigger.cs",
+              "ToolTip": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\ARInteractorSpawnTrigger.cs",
+              "RelativeToolTip": "Assets\\FireSim\\Scripts\\ARInteractorSpawnTrigger.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAswJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T00:19:38.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ARSampleMenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\ARSampleMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FireSim\\Scripts\\ARSampleMenuManager.cs",
+              "ToolTip": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\ARSampleMenuManager.cs",
+              "RelativeToolTip": "Assets\\FireSim\\Scripts\\ARSampleMenuManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T00:10:26.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ObjectSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\ObjectSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\FireSim\\Scripts\\ObjectSpawner.cs",
+              "ToolTip": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\ObjectSpawner.cs",
+              "RelativeToolTip": "Assets\\FireSim\\Scripts\\ObjectSpawner.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAkwGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T00:06:28.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StartupUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\StartupUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FireSim\\Scripts\\StartupUIManager.cs",
+              "ToolTip": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\StartupUIManager.cs",
+              "RelativeToolTip": "Assets\\FireSim\\Scripts\\StartupUIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T00:02:09.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InstructionUI.cs",
+              "DocumentMoniker": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\InstructionUI.cs",
+              "RelativeDocumentMoniker": "Assets\\FireSim\\Scripts\\InstructionUI.cs",
+              "ToolTip": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\InstructionUI.cs",
+              "RelativeToolTip": "Assets\\FireSim\\Scripts\\InstructionUI.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T00:00:16.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GoalManager.cs",
+              "DocumentMoniker": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\GoalManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FireSim\\Scripts\\GoalManager.cs",
+              "ToolTip": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\GoalManager.cs",
+              "RelativeToolTip": "Assets\\FireSim\\Scripts\\GoalManager.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAkwNsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T23:57:03.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExtinguisherSpray.cs",
+              "DocumentMoniker": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\ExtinguisherSpray.cs",
+              "RelativeDocumentMoniker": "Assets\\FireSim\\Scripts\\ExtinguisherSpray.cs",
+              "ToolTip": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\ExtinguisherSpray.cs",
+              "RelativeToolTip": "Assets\\FireSim\\Scripts\\ExtinguisherSpray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T23:48:21.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EscapeDoor.cs",
+              "DocumentMoniker": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\EscapeDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\FireSim\\Scripts\\EscapeDoor.cs",
+              "ToolTip": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\EscapeDoor.cs",
+              "RelativeToolTip": "Assets\\FireSim\\Scripts\\EscapeDoor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T23:46:43.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RuntimeSpawnInfo..cs",
+              "DocumentMoniker": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\RuntimeSpawnInfo..cs",
+              "RelativeDocumentMoniker": "Assets\\FireSim\\Scripts\\RuntimeSpawnInfo..cs",
+              "ToolTip": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\RuntimeSpawnInfo..cs",
+              "RelativeToolTip": "Assets\\FireSim\\Scripts\\RuntimeSpawnInfo..cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:20:32.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SprayController.cs",
+              "DocumentMoniker": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\SprayController.cs",
+              "RelativeDocumentMoniker": "Assets\\FireSim\\Scripts\\SprayController.cs",
+              "ToolTip": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\SprayController.cs",
+              "RelativeToolTip": "Assets\\FireSim\\Scripts\\SprayController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAuwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:16:25.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TrackableFire.cs",
+              "DocumentMoniker": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\TrackableFire.cs",
+              "RelativeDocumentMoniker": "Assets\\FireSim\\Scripts\\TrackableFire.cs",
+              "ToolTip": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\TrackableFire.cs",
+              "RelativeToolTip": "Assets\\FireSim\\Scripts\\TrackableFire.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:00:08.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ARTemplateMenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\ARTemplateMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FireSim\\Scripts\\ARTemplateMenuManager.cs",
+              "ToolTip": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\ARTemplateMenuManager.cs",
+              "RelativeToolTip": "Assets\\FireSim\\Scripts\\ARTemplateMenuManager.cs",
+              "ViewState": "AgIAAP4CAAAAAAAAAAAnwA8DAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:34:09.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TrainingStatsManager.cs",
+              "DocumentMoniker": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\TrainingStatsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FireSim\\Scripts\\TrainingStatsManager.cs",
+              "ToolTip": "C:\\Users\\Shira\\Fire For real1.3\\Assets\\FireSim\\Scripts\\TrainingStatsManager.cs",
+              "RelativeToolTip": "Assets\\FireSim\\Scripts\\TrainingStatsManager.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAYwKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:34:02.415Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
